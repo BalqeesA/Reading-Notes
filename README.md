@@ -1,2 +1,3 @@
 # Reading
-[GitHub](lab02a.md)
+[lab02a](lab02a.md)
+[html](html.md)
