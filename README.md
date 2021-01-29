@@ -1,5 +1,5 @@
 # Reading
--[groeth Minds](growthMinds.md)
+-[growth Minds](growthMinds.md)
 
 -[HTML](HTML.md)
 
