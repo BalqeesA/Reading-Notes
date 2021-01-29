@@ -1,3 +1,7 @@
 # Reading
-[lab02a](lab02a.md)
-[html](html.md)
+-[groeth Minds](growthMinds.md)
+
+-[HTML](HTML.md)
+
+-[the coder computer](theCoderComputer.md)
+
