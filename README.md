@@ -5,3 +5,4 @@
 
 -[the coder computer](theCoderComputer.md)
 
+[JavaScript & jQuery](JavaScript & jQuery.md)
