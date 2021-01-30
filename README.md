@@ -10,7 +10,7 @@ graduate from SUST in Sudan since 2011.
 # Reading
 -[growth Minds](growthMinds.md)
 
--[HTML](HTML.md)
+-[html](html.md)
 
 -[the coder computer](theCoderComputer.md)
 
