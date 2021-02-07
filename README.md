@@ -29,7 +29,7 @@ graduate from SUST in Sudan since 2011.
 |    Lab Name    |  Lab Link | 
 | ------------- |:-------------:|
 |   class-01    | [class-01](201\class-01.md) |
-
+|   class-02    | [class-02](201\class-02.md) |
 
 
 
