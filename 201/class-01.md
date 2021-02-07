@@ -1,3 +1,5 @@
+
+
 ## Structure
 
 We come across all kinds of documents every day of our lives. Newspapers,
