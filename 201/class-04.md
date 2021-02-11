@@ -168,7 +168,7 @@ Elements can touch either side
 ### Parents of Floated Elements: Problem
 If a containing element only contains floated elements, some browsers will treat it as if it is zero pixels tall. As you can see in this example, the one pixel border assigned to the containing element has collapsed, so the box looks like a two pixel line.
 
-### Parents of Fl oated Elements: Solution
+### Parents of Floated Elements: Solution
 Traditionally, developers got around this problem by adding an extra element after the last floated box (inside the containing element). A CSS rule would be applied to this additional element setting the clear property to have a value of both. But this meant that an extra element was added to the HTML just to fix the height of the containing element.
 
 
