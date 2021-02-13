@@ -33,7 +33,7 @@ graduate from SUST in Sudan since 2011.
 |   class-03    | [class-03](201\class-03.md) |
 |   class-04    | [class-04](201\class-04.md) |
 |   class-05    | [class-05](201\class-05.md) |
-
+|   class-06    | [class-06](201\class-06.md) |
 
 
 
